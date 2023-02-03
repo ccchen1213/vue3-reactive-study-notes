@@ -4,4 +4,5 @@
 于是根据文章把代码分成不同章节保存下来，方便自己理解和回顾。
 
 
-文章来源：Sunshine_Lin.《Vue3的响应式核心原理解析》https://juejin.cn/post/7001999813344493581 ————稀土掘金
+文章来源：
+Sunshine_Lin《Vue3的响应式核心原理解析》https://juejin.cn/post/7001999813344493581
